@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hello_android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home_fg">主页</string>
+    <string name="phone_fg">电话</string>
+    <string name="video_fg">视频</string>
+    <string name="current">开</string>
+</resources>
